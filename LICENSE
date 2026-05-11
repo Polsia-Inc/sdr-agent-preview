@@ -1,0 +1,34 @@
+PROMPTARMORY PREVIEW LICENSE
+
+Copyright (c) 2026 PromptArmory
+
+Permission is granted, free of charge, to any individual or organization
+obtaining a copy of this repository ("the Preview") to use the contents for
+personal learning, non-commercial research, and educational purposes.
+
+PERMITTED:
+- Read, study, and adapt the contents for learning purposes
+- Use the architecture described here to build prompts for personal,
+  non-commercial projects
+- Share the repository URL publicly with attribution to PromptArmory
+
+NOT PERMITTED WITHOUT A PAID LICENSE:
+- Commercial deployment of the system prompt architectures, templates,
+  or structures included in this repository
+- Incorporation of the prompt templates into commercial products,
+  SaaS applications, client deliverables, or any revenue-generating context
+- Distribution of modified or unmodified versions of these files as a
+  standalone product or as part of another product
+- Training AI models on the contents of this repository
+
+COMMERCIAL LICENSE:
+A commercial use license is included with every paid blueprint purchase at
+https://promptarmory.polsia.app
+
+The commercial license grants unlimited deployment rights for the purchased
+blueprint(s) in any number of production applications, including SaaS products
+and client work.
+
+THE PREVIEW IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL PROMPTARMORY BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF THIS PREVIEW.
